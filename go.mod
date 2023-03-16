@@ -1,4 +1,4 @@
-module github.com/yl2chen/cidranger
+module github.com/zerogate-it/cidranger
 
 go 1.13
 
